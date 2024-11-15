@@ -10,7 +10,7 @@ let package = Package(
         .library(
             name: "IDNowSDKCore-without-NFC-without-XS2A",
             targets: [
-                "IDNowSDKCore-without-NFC", "FaceTecSDK"
+                "IDNowSDKCore-without-NFC-without-XS2A", "FaceTecSDK"
             ]
         )
     ],
