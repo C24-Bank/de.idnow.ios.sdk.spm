@@ -8,7 +8,7 @@ let package = Package(
     platforms: [.iOS(.v12)],
     products: [
         .library(
-            name: "IDNowSDKCore-without-NFC-without-XS2A",
+            name: "IDNowSDKCore",
             targets: [
                 "IDNowSDKCore-without-NFC-without-XS2A", "FaceTecSDK"
             ]
